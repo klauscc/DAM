@@ -10,9 +10,19 @@ Our DAM model outperforms prior state-of-the-art continual learning approaches b
 
 ---
 
-Outlines
+Table of Contents
 
-[toc]
+* [DAM: Dynamic Adapter Merging for Continual Video QA Learning](#dam-dynamic-adapter-merging-for-continual-video-qa-learning)
+   * [Video Question Answering](#video-question-answering)
+      * [Setup](#setup)
+      * [Quick Start](#quick-start)
+         * [Set Environmental Variables](#set-environmental-variables)
+         * [Download processed data and pretrained checkpoints](#download-processed-data-and-pretrained-checkpoints)
+         * [Train and Inference](#train-and-inference)
+   * [Acknowledgements](#acknowledgements)
+   * [Citation](#citation)
+
+---
 
 ## Video Question Answering
 
