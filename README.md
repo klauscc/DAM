@@ -1,6 +1,6 @@
 # DAM: Dynamic Adapter Merging for Continual Video QA Learning
 
-[Paper](https://arxiv.org/abs/2206.08155)
+[Paper](https://arxiv.org/abs/2403.08755)
 
 ![Teaser](figs/teaser.png)
 
